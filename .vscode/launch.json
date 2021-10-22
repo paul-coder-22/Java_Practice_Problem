@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch matrixMul",
+            "request": "launch",
+            "mainClass": "matrixMul",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "com.vscode.demo.LinkedList"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedLis",
+            "request": "launch",
+            "mainClass": "LinkedLis",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainLinkedList",
+            "request": "launch",
+            "mainClass": "MainLinkedList",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueDs",
+            "request": "launch",
+            "mainClass": "QueueDs",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "JAVA_cb737643"
+        }
+    ]
+}
