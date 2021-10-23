@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "Stack",
         "Placement Practice",
+        "Patterns",
         "LinkedList",
-        "Patterns"
+        "2d Array"
     ]
 }

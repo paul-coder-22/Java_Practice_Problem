@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch diagonalElement",
+            "request": "launch",
+            "mainClass": "diagonalElement",
+            "projectName": "JAVA_cb737643"
+        },
+        {
+            "type": "java",
             "name": "Launch matrixMul",
             "request": "launch",
             "mainClass": "matrixMul",
